@@ -30,11 +30,8 @@ st.write("---")
 st.markdown("""
 <div class="box">            
 <div class="s-texto">
-<b>Alunos:</b> Felipe Melo e Samuel Tavares <br>
-<b>Semestre:</b> 1° <br>            
-<b>Curso:</b> Ciência de Dados e Inteligência Artificial  <br>
-<b>Professor:</b> Alexandre Roriz  <br>
-<b>Instituição:</b> Instituto de Ensino Superior de Brasília  <br>
+<b>Autor:</b> Felipe Moreira<br>           
+<b>Curso:</b> Ciência de Dados e Inteligência Artificial <br>
 </div>
 </div>            
 """, unsafe_allow_html=True)
